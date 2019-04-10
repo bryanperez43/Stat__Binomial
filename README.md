@@ -7,6 +7,10 @@ The probability distribution of a binomial random variable is called a binomial 
 
 # To Run
 
-```CD to cloned repo```  
-```Make```
-```./binomial```
+```
+
+CD to cloned repo 
+Make
+./binomial
+
+```
