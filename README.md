@@ -5,12 +5,12 @@
 A binomial random variable is the number of successes x in n repeated trials of a binomial experiment. 
 The probability distribution of a binomial random variable is called a binomial distribution.
 
-# To Run
+# To Run (IN CLI)
 
 ```
 
-CD to cloned repo 
-Make
-./binomial
+- CD to cloned repo 
+- Make
+- ./binomial
 
 ```
